@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/jaykosai" target="blank"><img src="https://img.shields.io/twitter/follow/jaykosai?logo=twitter&style=for-the-badge" alt="jaykosai" /></a> </p>
 
+- Currently learning Solidity and testing using Foundry and Hardhat 
+
 - 🔭 I’m currently working on [Pan and Pot game](https://pan-and-pot.web.app/)
 
 - 👨‍💻 All of my projects are available at [https://jaykosai.vercel.app/](https://jaykosai.vercel.app/)

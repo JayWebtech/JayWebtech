@@ -1,6 +1,6 @@
-# Hi 👋, I'm Jethro Adamu
+# 👋 Hi, I'm Jethro Adamu  
 
-### I love building and shipping quality products
+### 🚀 I love building and shipping quality products  
 
 - 💻 Web Developer  
 - 📱 Mobile App Developer  
@@ -13,35 +13,18 @@
 
 📁 **Portfolio**: [jaykosai.vercel.app](https://jaykosai.vercel.app)  
 📬 **Email**: jethroadamzy@gmail.com  
-📄 **Know about my experiences**: [View my CV](https://drive.google.com/file/d/1MjQiOZEfAQzZCWhUO3EZwqGn2E6mQbTM/view?usp=sharing)
+📄 **CV**: [View here](https://drive.google.com/file/d/1W9YgDqHctK796D5Z1n2FHLwamIGCoIY8/view?usp=sharing)  
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack  
 
-### 🖥️ Frontend
-- JavaScript  
-- React Native  
-- Flutter  
-- Tailwind CSS  
-- Figma  
+| **Frontend**        | **Backend**   | **Databases** | **Blockchain**       | **Tools & DevOps** |
+|----------------------|---------------|---------------|----------------------|---------------------|
+| JavaScript           | Node.js       | MySQL         | Solidity             | Git                 |
+| React Native         | Python        | MongoDB       | Cairo                | Postman             |
+| Flutter              | Java          | Supabase      |                      |                     |
+| Tailwind CSS         | PHP           | Firebase      |                      |                     |
+| Figma                |               |               |                      |                     |
 
-### 🛠️ Backend
-- Node.js  
-- Python  
-- Java  
-- PHP  
-
-### 🗄️ Databases
-- MySQL  
-- MongoDB  
-- Supabase  
-- Firebase  
-
-### 🔐 Smart Contracts / Blockchain
-- Solidity  
-- Cairo  
-
-### 🧰 Tools & DevOps
-- Git  
-- Postman  
+---

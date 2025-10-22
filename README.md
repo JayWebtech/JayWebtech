@@ -13,7 +13,7 @@
 
 📁 **Portfolio**: [jaykosai.vercel.app](https://jaykosai.vercel.app)  
 📬 **Email**: jethroadamzy@gmail.com  
-📄 **CV**: [View here](https://drive.google.com/file/d/1W9YgDqHctK796D5Z1n2FHLwamIGCoIY8/view?usp=sharing)  
+📄 **CV**: [View here](https://drive.google.com/file/d/19FRNItMwOEKKNeIN3OSU_zWH_uTnMJ4p/view?usp=sharing)  
 
 ---
 

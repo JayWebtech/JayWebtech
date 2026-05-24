@@ -7,13 +7,12 @@
 - 🔗 Blockchain Developer  
 - 🎨 UI/UX Designer  
 - 🤝 Open-source Contributor  
-- 🛠️ Project Maintainer at OnlyDust  
 
 ---
 
 📁 **Portfolio**: [jaykosai.vercel.app](https://jaykosai.vercel.app)  
 📬 **Email**: jethroadamzy@gmail.com  
-📄 **CV**: [View here](https://drive.google.com/file/d/19FRNItMwOEKKNeIN3OSU_zWH_uTnMJ4p/view?usp=sharing)  
+📄 **CV**: [View here](https://drive.google.com/file/d/1peacyurj8QV8CnIipiIhBelJgrqQaLqL/view?usp=sharing)  
 
 ---
 

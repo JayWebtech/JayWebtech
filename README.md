@@ -25,6 +25,10 @@ An interactive 3D memorial for failed startups and the lessons they left behind.
 Livestreaming with audience challenges and on-chain betting.  
 🔗 https://github.com/JayWebtech/clutch
 
+### Pagra-AI
+A comprehensive Node.js API for Starknet wallet management with Telegram bot integration and MCP (Model Context Protocol) chat functionality.  
+🔗 https://github.com/JayWebtech/pagra-ai
+
 ### Naija Bank Account Resolver
 TypeScript library for NUBAN validation and bank detection.  
 🔗 https://github.com/JayWebtech/naija-bank-account-resolver

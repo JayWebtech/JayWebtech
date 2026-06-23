@@ -37,8 +37,8 @@ TypeScript library for NUBAN validation and bank detection.
 
 ### 🌐 Connect
 
-- Portfolio: https://jaykosai.vercel.app
+- Portfolio: https://jaykosai.pxxl.app
 - Email: jethroadamzy@gmail.com
-- CV: https://drive.google.com/file/d/1peacyurj8QV8CnIipiIhBelJgrqQaLqL/view
+- CV: https://drive.google.com/file/d/1Y4biTq2zBPNk53o2Da0anoA1i0OJsR8T/view?usp=sharing
 
 > Building products, shipping fast, and learning in public.

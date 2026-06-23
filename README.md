@@ -1,29 +1,40 @@
-# 👋 Hi, I'm Jethro Adamu  
+# 👋 Hi, I'm Jethro Adamu
 
-### 🚀 I love building and shipping quality products  
+**Full-Stack Developer • Blockchain Builder • Product Engineer**
 
-- 💻 Web Developer  
-- 📱 Mobile App Developer  
-- 🔗 Blockchain Developer  
-- 🎨 UI/UX Designer  
-- 🤝 Open-source Contributor  
+I build products at the intersection of AI, Web3, and developer tools.
+
+## Featured Projects
+
+### AutoShorts
+AI-powered desktop app for turning long-form videos into viral short-form clips.  
+**Rust • Tauri**  
+🔗 https://github.com/JayWebtech/autoshorts
+
+### Crative
+Generate motion videos from AI prompts.  
+**Next.js • Node.js • TypeScript**  
+🔗 https://github.com/JayWebtech/crative
+
+### Startup Graveyard
+An interactive 3D memorial for failed startups and the lessons they left behind.  
+**Next.js • Three.js • React Three Fiber**  
+🔗 https://github.com/JayWebtech/dead_startups
+
+### Clutch
+Livestreaming with audience challenges and on-chain betting.  
+🔗 https://github.com/JayWebtech/clutch
+
+### Naija Bank Account Resolver
+TypeScript library for NUBAN validation and bank detection.  
+🔗 https://github.com/JayWebtech/naija-bank-account-resolver
 
 ---
 
-📁 **Portfolio**: [jaykosai.vercel.app](https://jaykosai.vercel.app)  
-📬 **Email**: jethroadamzy@gmail.com  
-📄 **CV**: [View here](https://drive.google.com/file/d/1peacyurj8QV8CnIipiIhBelJgrqQaLqL/view?usp=sharing)  
+### 🌐 Connect
 
----
+- Portfolio: https://jaykosai.vercel.app
+- Email: jethroadamzy@gmail.com
+- CV: https://drive.google.com/file/d/1peacyurj8QV8CnIipiIhBelJgrqQaLqL/view
 
-## 🧠 Tech Stack  
-
-| **Frontend**        | **Backend**   | **Databases** | **Blockchain**       | **Tools & DevOps** |
-|----------------------|---------------|---------------|----------------------|---------------------|
-| JavaScript           | Node.js       | MySQL         | Solidity             | Git                 |
-| React Native         | Python        | MongoDB       | Cairo                | Postman             |
-| Flutter              | Java          | Supabase      |                      |                     |
-| Tailwind CSS         | PHP           | Firebase      |                      |                     |
-| Figma                |               |               |                      |                     |
-
----
+> Building products, shipping fast, and learning in public.

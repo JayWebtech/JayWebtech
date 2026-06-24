@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jethro Adamu
 
-**Full-Stack Developer • Blockchain Builder • Product Engineer**
+**Full-Stack Developer • Blockchain Builder • Product Engineer • Open source contributor**
 
 I build products at the intersection of AI, Web3, and developer tools.
 

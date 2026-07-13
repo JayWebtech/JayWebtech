@@ -14,7 +14,7 @@ Full-Stack Developer building AI, Web3, and developer tools.
 
 - **Startup Graveyard** — Interactive 3D memorial for failed startups  
   *Next.js · Three.js*  
-  https://github.com/JayWebtech/dead_startups
+  https://startup-graveyard.xyz/
 
 - **Clutch** — Livestreaming with audience challenges and on-chain betting  
   https://github.com/JayWebtech/clutch

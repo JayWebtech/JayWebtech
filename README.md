@@ -32,7 +32,3 @@ Full-Stack Developer building AI, Web3, and developer tools.
 - 🌐 Portfolio: https://jaykosai.pxxl.app
 - 📧 Email: jethroadamzy@gmail.com
 - 📄 CV: https://drive.google.com/file/d/1Y4biTq2zBPNk53o2Da0anoA1i0OJsR8T/view
-
----
-
-> Building useful products and shipping in public.

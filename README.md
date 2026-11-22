@@ -23,9 +23,9 @@ Full-Stack Developer building AI, Web3, and developer tools.
   *Node.js · TypeScript*  
   https://github.com/JayWebtech/pagra-ai
 
-- **Naija Bank Account Resolver** — NUBAN validation library  
+- **Naija Bank Account Resolver** — A small always-on-top widget for macOS that shows what your coding agents are doing, and lets you know the moment one of them needs you. 
   *TypeScript*  
-  https://github.com/JayWebtech/naija-bank-account-resolver
+  https://github.com/JayWebtech/agentradar
 
 ## Connect
 

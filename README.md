@@ -24,7 +24,6 @@ Full-Stack Developer building AI, Web3, and developer tools.
   https://github.com/JayWebtech/pagra-ai
 
 - **Agent Radar** — A small always-on-top widget for macOS that shows what your coding agents are doing, and lets you know the moment one of them needs you. 
-  *TypeScript*  
   https://github.com/JayWebtech/agentradar
 
 ## Connect
